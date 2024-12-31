@@ -12,7 +12,10 @@ pip install -r requirements.txt
 ```
 python setup.py build develop
 ```
-4. Run the demo
+4. Run the demo. It will take some time to init the demo
 ```
 streamlit run app.py
 ```
+
+The demo will be like that
+![alt text](images/image.png)
