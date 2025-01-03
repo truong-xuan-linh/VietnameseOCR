@@ -1,0 +1,5 @@
+*.pth
+*/__pycache__
+*.egg-info
+build
+_C.cpython-312-darwin.so
